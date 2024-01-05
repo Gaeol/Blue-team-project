@@ -6,7 +6,7 @@
 ---
 
 ## 목차  
-## 1. 자갈치 시장[자갈치 시장](project01/gagalchi01.md)
+## 1. [자갈치 시장](project01/gagalchi01.md)
 ## 2.
 ## 3.
 ## 4.
