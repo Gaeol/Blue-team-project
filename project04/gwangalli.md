@@ -6,3 +6,5 @@
 ## ● 위치(지도)링크 : [광안리](https://www.google.com/maps/place/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C+%EC%88%98%EC%98%81%EA%B5%AC+%EA%B4%91%EC%95%88%EC%A0%9C2%EB%8F%99/data=!4m6!3m5!1s0x3568ed28e3a89611:0xb1cf6630954a1061!8m2!3d35.1546747!4d129.1156499!16s%2Fg%2F1tf3lt21?hl=ko-KR&entry=ttu)
 # 2.사진
 ## ![광안대교이미지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMTBfMTM5%2FMDAxNzAyMjE3NzEyNTYx.54PTr-Uvkz0jh3jn47nEBOplE-kV-V7Quxy52U58a6cg.lzP0pW4aXvjsBzwG1L3enuGRgU-tJKrzLPetH7Ji2d8g.JPEG.sumin_1216%2F%25BA%25E4%25B8%25D5%25B5%25E5_%25C7%25AE%25BA%25F4%25B6%25F3-58.jpg&type=sc960_832)
+  # 3.링크
+  ## [광안리 해수욕장 홈페이지](https://www.suyeong.go.kr/tour/index.suyeong?menuCd=DOM_000001102001001000&link=success&cpath=%252Ftour)
