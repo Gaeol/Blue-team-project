@@ -12,3 +12,5 @@
 
 ### (3) 링크
 [해동용궁사](https://namu.wiki/w/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC)
+
+[목차링크](../README.md)
