@@ -11,5 +11,4 @@
 ![git](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMjdfMTIg%2FMDAxNjc3NDU3OTcxNTgx.3mtY0DamWg082ixu3-BpLmEEEHn9FL7GWS5pOMT3fAog.X7sr7EUyVD_nB4oiEkuiUNjezRn8sorOn9QlWIRO8sQg.JPEG.pwthroom%2F20230224_163014.jpg&type=sc960_832)
 
 ### (3) 링크
-[해동 용궁사](https://namu.wiki/w/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC)
-
+[해동용궁사](https://namu.wiki/w/%ED%95%B4%EB%8F%99%EC%9A%A9%EA%B6%81%EC%82%AC)
