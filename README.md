@@ -6,11 +6,9 @@
 ---
 
 ## 목차  
-## 1.
-## 2. [해동용궁사](project02/Haedong.md)
-## 3. 
-## 1. [자갈치 시장](project01/gagalchi01.md)
-## 2.
+## 1. [해동용궁사](project02/Haedong.md)
+## 2. [자갈치 시장](project01/gagalchi01.md)
+## 3.
 ## 3. [감천문화마을](project03/Gamcheon_Culture_Village.md)
 ## 4.
 
