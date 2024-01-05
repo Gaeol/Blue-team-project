@@ -1,5 +1,5 @@
 ## 1.자갈치 시장  
-<span style="color:bleu">자갈치 시장</span> 
+<span style="blue">자갈치 시장</span> 
 ### (1) 설명  
 #### 주소
 #### 운영시간
